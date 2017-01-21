@@ -21,7 +21,7 @@ We are developing knowledge library for learning San Francisco. The best resourc
 
 ##Tools/Apps Used
 
-+ [Django 1.6.11](https://www.djangoproject.com/)
++ [Django 1.8.7](https://www.djangoproject.com/)
 + [Twitter Bootstrap](http://getbootstrap.com/)
 + [django-registration](https://django-registration.readthedocs.org/en/latest/)
 + [django-guardian](https://github.com/lukaszb/django-guardian)
@@ -53,3 +53,4 @@ This project is licensed under [MIT License](http://mit-license.org). See LICENS
 + djangoratings-vote : ip-address width = 64. Otherwise, we get the following error: Data truncated for column 'ip_address' at row 1
 + discus comment tool requires registration. 
 + Upgraded to Django 1.8.7 on Jan. 2, 2015 (2 fixes - 1. Import user after loading app, 2. NoReverseMatch for admin delete)
++ Adsense added on Jan 5, 2017. 
