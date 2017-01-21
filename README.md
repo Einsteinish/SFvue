@@ -48,9 +48,10 @@ We are developing knowledge library for learning San Francisco. The best resourc
 
 This project is licensed under [MIT License](http://mit-license.org). See LICENSE.txt
 
-## Note
+## Update Note
 
 + djangoratings-vote : ip-address width = 64. Otherwise, we get the following error: Data truncated for column 'ip_address' at row 1
 + discus comment tool requires registration. 
 + Upgraded to Django 1.8.7 on Jan. 2, 2015 (2 fixes - 1. Import user after loading app, 2. NoReverseMatch for admin delete)
 + Adsense added on Jan 5, 2017. 
++ Adding topic is opened to any user on Jan 21, 2017. 
